@@ -1,7 +1,4 @@
-pandas>=1.5.0       # manipulação de dados tabulares
-numpy>=1.23.0       # operações numéricas e vetoriais
-matplotlib>=3.5.0   # visualização de dados (gráficos básicos)
-seaborn>=0.11.2     # visualização estatística avançada
-plotly>=5.10.0      # gráficos interativos
-notebook>=6.4.0     # execução de Jupyter notebooks
-openpyxl>=3.0.10    # leitura de arquivos .xlsx (Excel)
+pandas         # Manipulação e análise de dados
+numpy          # Operações numéricas e matrizes
+matplotlib     # Criação de visualizações estáticas, como gráficos
+seaborn        # Visualização de dados baseada no matplotlib (gráficos mais sofisticados)
