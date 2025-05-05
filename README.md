@@ -109,8 +109,6 @@ As bibliotecas necessárias para rodar o projeto são:
 - numpy
 - matplotlib
 - seaborn
-- scikit-learn
-- geopandas
 
 ---
 
