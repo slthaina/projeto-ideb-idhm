@@ -78,7 +78,7 @@ Projeto desenvolvido em **Jupyter Notebook**, utilizando a linguagem **Python 3.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/projeto-ideb-idhm.git
+git clone https://github.com/slthaina/projeto-ideb-idhm.git
 cd projeto-ideb-idhm
 ```
 
