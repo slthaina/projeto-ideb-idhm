@@ -1,4 +1,3 @@
-
 # FACULDADE DE COMPUTAÇÃO E INFORMÁTICA (FCI)
 
 ## 👩‍💻 Autoras
@@ -36,6 +35,21 @@ Investigar como o Índice de Desenvolvimento da Educação Básica (IDEB) varia 
 
 ---
 
+## 📁 Estrutura do Repositório
+
+A estrutura do repositório é organizada da seguinte forma:
+
+```
+.
+├── dados/            # Conjunto de dados brutos e tratados
+├── notebooks/        # Análises em Jupyter Notebook
+├── scripts/          # Scripts auxiliares (se houver)
+├── requirements.txt  # Bibliotecas necessárias
+└── README.md         # Documentação do projeto
+```
+
+---
+
 ## 📌 Metodologia
 
 1. **Coleta**: Dados extraídos de plataformas públicas da Prefeitura de São Paulo, INEP e IBGE.
@@ -60,6 +74,48 @@ Projeto desenvolvido em **Jupyter Notebook**, utilizando a linguagem **Python 3.
 
 ---
 
+## ⚙️ Como Executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/projeto-ideb-idhm.git
+cd projeto-ideb-idhm
+```
+
+2. (Opcional) Crie um ambiente virtual:
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts ctivate     # Windows
+```
+
+3. Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+
+4. Execute os notebooks:
+```bash
+jupyter notebook
+```
+Acesse a pasta `notebooks/` e abra os arquivos `.ipynb`.
+
+---
+
+## 📚 Bibliotecas
+
+As bibliotecas necessárias para rodar o projeto são:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- geopandas
+
+---
+
 ## 🧠 Conclusão Esperada
 
 Espera-se que distritos com menor desenvolvimento humano apresentem, em média, IDEBs mais baixos — reforçando a necessidade de políticas públicas que integrem aspectos educacionais e sociais.
+
