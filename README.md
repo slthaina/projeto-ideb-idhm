@@ -63,7 +63,7 @@ A estrutura do repositório é organizada da seguinte forma:
 
 ## 🔧 Ambiente de Desenvolvimento
 
-Projeto desenvolvido em **Jupyter Notebook**, utilizando a linguagem **Python 3.10**.
+Projeto desenvolvido em **Jupyter Notebook**, utilizando a linguagem **Python 3.13**.
 
 **Bibliotecas principais:**
 
