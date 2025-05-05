@@ -57,7 +57,6 @@ A estrutura do repositório é organizada da seguinte forma:
 3. **Exploração**: Visualizações com histogramas, boxplots, tabelas de frequência e mapas de calor.
 4. **Correlação**: Análise entre IDEB e componentes do IDHM (renda e educação).
 5. **Projeções**: Estimativas do IDHM para 2020 com modelos linear e exponencial.
-6. **Modelagem** *(em desenvolvimento)*: Regressão, ANOVA e predição de desempenho educacional.
 
 ---
 
