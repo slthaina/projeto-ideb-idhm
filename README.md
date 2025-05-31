@@ -10,6 +10,12 @@
 # PROJETO APLICADO I:  
 ## Análise do IDEB e das Desigualdades Educacionais no Ensino Público do Município de São Paulo
 
+## ▶️ Apresentação do Projeto
+
+Assista à apresentação completa no YouTube:  
+[▶️ Ver vídeo no YouTube](https://youtu.be/NyxuqSvHGjg)
+
+
 ---
 
 ## 🎯 Objetivo
@@ -115,4 +121,6 @@ As bibliotecas necessárias para rodar o projeto são:
 ## 🧠 Conclusão Esperada
 
 Espera-se que distritos com menor desenvolvimento humano apresentem, em média, IDEBs mais baixos — reforçando a necessidade de políticas públicas que integrem aspectos educacionais e sociais.
+
+
 
